@@ -2,4 +2,4 @@
 
 It's really just a simple smash-or-pass game
 
-[Live Server](simple-smash-or-pass.netlify.app)
+[Live Server](http://simple-smash-or-pass.netlify.app)
